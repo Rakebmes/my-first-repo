@@ -1,2 +1,1 @@
-This is my first Github project.
-conflict edits
+This is my first GITHUB project
